@@ -1,2 +1,2 @@
-# HabitTracker
+# Habit Tracker
 Group Project
